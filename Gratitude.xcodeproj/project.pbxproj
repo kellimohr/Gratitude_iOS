@@ -61,6 +61,7 @@
 		A3D379531888D7EF0005F808 /* GratitudeTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "GratitudeTests-Info.plist"; sourceTree = "<group>"; };
 		A3D379551888D7EF0005F808 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		A3D379571888D7EF0005F808 /* GratitudeTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GratitudeTests.m; sourceTree = "<group>"; };
+		A3D379611888DB7A0005F808 /* Gratitude 2.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Gratitude 2.xcdatamodel"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -492,9 +493,10 @@
 		A3D3793A1888D7EF0005F808 /* Gratitude.xcdatamodeld */ = {
 			isa = XCVersionGroup;
 			children = (
+				A3D379611888DB7A0005F808 /* Gratitude 2.xcdatamodel */,
 				A3D3793B1888D7EF0005F808 /* Gratitude.xcdatamodel */,
 			);
-			currentVersion = A3D3793B1888D7EF0005F808 /* Gratitude.xcdatamodel */;
+			currentVersion = A3D379611888DB7A0005F808 /* Gratitude 2.xcdatamodel */;
 			path = Gratitude.xcdatamodeld;
 			sourceTree = "<group>";
 			versionGroupType = wrapper.xcdatamodel;
